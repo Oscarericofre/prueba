@@ -10,4 +10,4 @@ dia_semana = dias_semana[fecha_objeto.weekday()]
 
 print("El día de la semana correspondiente a la fecha ingresada es:", dia_semana)
 
-#todassonigualesokwswssdv
+#todassonigualesokwswssdv commit v1
